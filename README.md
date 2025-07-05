@@ -56,7 +56,6 @@ There were inconsistensies in the raw data. There were null values in the salary
 ## Pointers 
 1. Gender distribution in the organization
    - Visualization tool used : Donut Chart + filters for Location
-     [gender distribution]
 2. Insights on ratings based on gender
    -  Visualization tool used : Stacked Column Chart
    -  Conclusion : Most Employee's had Average Ratings, The Male Employee's had higher ratings than the female employee's
