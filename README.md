@@ -51,17 +51,19 @@ There were inconsistensies in the raw data. There were null values in the salary
 ## Solutions To Key Analytical Tasks
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Analyzed file
-[palmora project](https://github.com/debbyadeshola1/DSA_Project-Power-BI-/blob/main/palmora%20project.pbix)
-
+[palmora project](https://drive.google.com/file/d/1EjYfZ14-JgQoF1YMNxwYbVrBjGfl5Fek/view)
 ## Pointers 
 1. Gender distribution in the organization
    - Visualization tool used : Donut Chart + filters for Location
+     [Gender distribution](https://drive.google.com/file/d/1xZ_oOXtoL2U4K9oP3Wdu-SS7lKqCnwV_/view)
 2. Insights on ratings based on gender
    -  Visualization tool used : Stacked Column Chart
    -  Conclusion : Most Employee's had Average Ratings, The Male Employee's had higher ratings than the female employee's
+     [Ratings](https://drive.google.com/file/d/19XZKFNtf4LkbUHR8p13NMr7qL8H_OzhQ/view)
 3. Analyse the company’s salary structure
    - Visualization tool used : Custom column chart
    - Conclusion : There is a gender pay gap across the departments;
+     [company's Structure](https://drive.google.com/file/d/1FV68wW31YzpFYd_8doJsl5PRE6yB_Itv/view)
 
  ## Abuja
  - Product Management: Male highest Pay
@@ -102,6 +104,7 @@ There were inconsistensies in the raw data. There were null values in the salary
    Pay distribution of employees grouped by a band of $10,000
    - Visualization tool used: Stacked column Chart
    - Conclusion: 268 employees were paid a minimum of $90,000
+     [salary band](https://drive.google.com/file/d/1-hbPe3nshzSWaWqbTUQXeyrqk1tpSdcw/view)
 5. Calculate the amount to be paid as a bonus to individual employees
 - Formula Used:`[salary]*[salary bonus rule]`
  - Calculate the total amount to be paid to individual employees (salary inclusive of
@@ -112,6 +115,12 @@ bonus)
    - In Kaduna - $25.6M
    - In Lagos - $17.67M
    - Total Anount to be Paid worldwide - $66.64M
+     [Total salary dashboard](https://drive.google.com/file/d/1jPuqLDNdF3554dZ3Vd6VV45XAuq3ZcSq/view)
+     Other Visuals
+     [average salary by gender](https://drive.google.com/file/d/1LI_m0Fw7EkbfkNOoANvHmUbVTYKmo6c3/view)
+     [salary vs gender](https://drive.google.com/file/d/1LyfuLC2E_rCIec3k3cybhgqb5za6nqSf/view)
+     [gender distribution](https://drive.google.com/file/d/1Kl8LimVLnIaOxzY8q5agWaJelL22n5Yh/view)
+     [count of gender](https://drive.google.com/file/d/1NNg_RSZL6pqmFu_UiobE3qOXZeHKs1Ha/view)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Conclusion
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
