@@ -116,7 +116,8 @@ bonus)
 ## Conclusion
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 The management should place their focus of some departments in the 3 regions as a result of the huge Gender pay Gaps
-## | Regions | Department to focus on |
+   | Regions | Department to focus on |
    ------------------------------------
    | Abuja | Product Management, Legal, Accounting, Training and Sales |
-   
+   | Kaduna | Sales, marketing and product management |
+   | Lagos | Business Development, Enginerring and research Development |
