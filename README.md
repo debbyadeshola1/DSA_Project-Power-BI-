@@ -50,4 +50,37 @@ There were inconsistensies in the raw data. There were null values in the salary
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Solutions To Key Analytical Tasks
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Analyzed file
+[palmora project](https://github.com/debbyadeshola1/DSA_Project-Power-BI-/blob/main/palmora%20project.pbix)
+
+## Pointers 
+1. Gender distribution in the organization
+   - Visualization tool used : Donut Chart + filters for Location
+2. Insights on ratings based on gender
+   -  Visualization tool used : Stacked Column Chart
+   -  Conclusion : Most Employee's had Average Ratings, The Male Employee's had higher ratings than the female employee's
+3. Analyse the company’s salary structure
+   - Visualization tool used : Custom column chart
+   - Conclusion : There is a gender pay gap across the departments;
+   | Region | Department | Gender with the highest pay |
+   | Abuja | Product Management | Male |
+   | Abuja | Legal | Male |
+   | Abuja | Support | Male |
+   | Abuja | Sales | Female |
+   | Abuja | Engineering | Female |
+   | Abuja | Accounting | Male |
+   | Abuja | Research & Development | Female |
+   | Abuja | Services | Female | 
+   | Abuja | Marketing | Female |
+   | Abuja | Business Development | Female |
+   | Abuja | Training | Female |
+   | Kaduna |
+   | Kaduna |
+   | Kaduna |
+   | Kaduna |
+   | Kaduna |
+   | Kaduna |
+   | Kaduna |
+   | Kaduna |
+   | Kaduna |
 
