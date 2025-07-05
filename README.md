@@ -42,5 +42,8 @@ There were inconsistensies in the raw data. There were null values in the salary
    - Department & rating columns joined together (Bonus Rule Table)
    - Merging tables:
      > Bonus rule table merged with employee data table
-4. Calculations:
+4.  calculations:
+   - Salary Bonus
+     - '[salary]*[bonus value]'
+
    -
