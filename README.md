@@ -97,4 +97,26 @@ There were inconsistensies in the raw data. There were null values in the salary
  - Marketing: Female highest Pay
  - Business Development: Male highest Pay
  - Training: Male highest Pay
+4. A recent regulation was adopted which requires manufacturing companies to pay employees a minimum of $90,000, Does Palmoria meet this requirement?
+   - The answer is NO
+   Pay distribution of employees grouped by a band of $10,000
+   - Visualization tool used: Stacked column Chart
+   - Conclusion: 268 employees were paid a minimum of $90,000
+5. Calculate the amount to be paid as a bonus to individual employees
+- Formula Used:`[salary]*[salary bonus rule]`
+ - Calculate the total amount to be paid to individual employees (salary inclusive of
+bonus)
+- Formula Used: `[salary]+[salary bonus rule]`
+ - Total amount to be paid out per region and company-wide
+   - In Abuja - $23.36M
+   - In Kaduna - $25.6M
+   - In Lagos - $17.67M
+   - Total Anount to be Paid worldwide - $66.64M
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Conclusion
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The management should place their focus of some departments in the 3 regions as a result of the huge Gender pay Gaps
+## | Regions | Department to focus on |
+   ------------------------------------
+   | Abuja | Product Management, Legal, Accounting, Training and Sales |
    
