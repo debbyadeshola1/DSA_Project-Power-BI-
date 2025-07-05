@@ -6,8 +6,8 @@ regions. Designed during my time at DSA Incubator, this project uses visualizati
 > 🪩 Objective: Analyse the company data and generate insights that the Palmoria management team would need to address
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🏢 Project overview
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-The Palmoria Group, a manufacturing company based in Nigeria, is embroiled in issues bordering on gender inequality in its 3 regions. Unfortunately, the media recently published the news with the headline “Palmoria, the Manufacturing Patriarchy”. This doesn’t look good for the owners of the business, based on their ambition to scale the business to other regions and even overseas. I was hired as an HR Analytics expert to analyse the company’s HR data and come up with recommendations for management’s attention.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- The Palmoria Group, a manufacturing company based in Nigeria, is embroiled in issues bordering on gender inequality in its 3 regions. Unfortunately, the media recently published the news with the headline “Palmoria, the Manufacturing Patriarchy”. This doesn’t look good for the owners of the business, based on their ambition to scale the business to other regions and even overseas. I was hired as an HR Analytics expert to analyse the company’s HR data and come up with recommendations for management’s attention.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📰 Dataset Description
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -56,6 +56,7 @@ There were inconsistensies in the raw data. There were null values in the salary
 ## Pointers 
 1. Gender distribution in the organization
    - Visualization tool used : Donut Chart + filters for Location
+     [gender distribution]
 2. Insights on ratings based on gender
    -  Visualization tool used : Stacked Column Chart
    -  Conclusion : Most Employee's had Average Ratings, The Male Employee's had higher ratings than the female employee's
