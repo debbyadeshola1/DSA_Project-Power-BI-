@@ -62,25 +62,39 @@ There were inconsistensies in the raw data. There were null values in the salary
 3. Analyse the company’s salary structure
    - Visualization tool used : Custom column chart
    - Conclusion : There is a gender pay gap across the departments;
-   | Region | Department | Gender with the highest pay |
-   | Abuja | Product Management | Male |
-   | Abuja | Legal | Male |
-   | Abuja | Support | Male |
-   | Abuja | Sales | Female |
-   | Abuja | Engineering | Female |
-   | Abuja | Accounting | Male |
-   | Abuja | Research & Development | Female |
-   | Abuja | Services | Female | 
-   | Abuja | Marketing | Female |
-   | Abuja | Business Development | Female |
-   | Abuja | Training | Female |
-   | Kaduna |
-   | Kaduna |
-   | Kaduna |
-   | Kaduna |
-   | Kaduna |
-   | Kaduna |
-   | Kaduna |
-   | Kaduna |
-   | Kaduna |
 
+ ## Abuja
+ - Product Management: Male highest Pay
+ - Legal: Male highest Pay
+ - Support: Male highest Pay
+ - Sales: Female highest pay
+ - Engineering: Female highest Pay
+ - Accounting: Male highest Pay
+ - Research & Development: Female highest Pay
+ - Services: Female highest Pay
+ - Marketing: Female highest Pay
+ - Business Development: Female highest Pay
+ - Training: Female highest Pay
+ ## Kaduna 
+ - Product Management: Male highest Pay
+ - Legal: Male highest Pay
+ - Support: Female highest Pay
+ - Sales: Male highest pay
+ - Engineering: Female highest Pay
+ - Research & Development: Male highest Pay
+ - Services: Male highest Pay
+ - Marketing: Male highest Pay
+ - Business Development: Female highest Pay
+ - Training: Male highest Pay
+ - Human Resources: Male highest Pay
+## Lagos
+ - Support: Male highest Pay
+ - Sales: Male highest pay
+ - Engineering: Male highest Pay
+ - Accounting: Male highest Pay
+ - Research & Development: Female highest Pay
+ - Services: Female highest Pay
+ - Marketing: Female highest Pay
+ - Business Development: Male highest Pay
+ - Training: Male highest Pay
+   
